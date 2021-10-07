@@ -1,0 +1,46 @@
+/* CSS Document */
+@charset "utf-8";
+/*
+contenido:
+encabezado:
+equivalentes:
+piepagina:
+auxiliar:
+*/
+
+body{
+	width: 100%;
+}
+#h1{
+	font-size: 250%;
+	text-align: center;
+	letter-spacing: 5px;
+	line-height: 2em;
+}
+#contenido{
+	width: 70%;
+	margin: 0 auto;
+	font-family: Georgia, "Times New Roman", serif;
+}
+#encabezdo{
+	background: #00867d;
+}
+#equivalentes{
+	background: #4db6ac;
+}
+#piepagina{
+	background: #82e9de;	
+}
+#auxiliar{
+	
+}
+
+
+
+
+
+#divison {
+	background: #EFADAE;
+	color: aquamarine;
+	line-height: normal;
+}
